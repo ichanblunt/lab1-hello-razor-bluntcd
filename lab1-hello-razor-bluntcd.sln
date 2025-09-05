@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab1-hello-razor-bluntcd", "lab1-hello-razor-bluntcd\lab1-hello-razor-bluntcd.csproj", "{D64DAC2C-CDC6-426C-90F1-2C6AF5207A1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D64DAC2C-CDC6-426C-90F1-2C6AF5207A1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D64DAC2C-CDC6-426C-90F1-2C6AF5207A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D64DAC2C-CDC6-426C-90F1-2C6AF5207A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D64DAC2C-CDC6-426C-90F1-2C6AF5207A1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EA3DFA3-84B3-4682-940B-5B3460BA07AF}
+	EndGlobalSection
+EndGlobal
